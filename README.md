@@ -3,7 +3,7 @@
 Maths problems for SAMI Maths Club App
 
 *svg image links:*  
-[colouring-maps](https://www.flaticon.com/premium-icon/maps_1189850?term=map&page=2&position=71&related_id=1189850&origin=search)  
+[colouring-maps](https://www.flaticon.com/free-icon/map_854878?term=maps&page=1&position=11&page=1&position=11&related_id=854878&origin=search)  
 [diffy-squares](https://www.flaticon.com/free-icon/selection_802045?term=squares&page=3&position=43&related_id=802045&origin=search)  
 [hanoi-tower](https://www.flaticon.com/free-icon/stacking_3997821?term=pyramid&page=1&position=92&page=1&position=92&related_id=3997821&origin=search)  
 [josephus-problem](https://www.flaticon.com/free-icon/share_148799?term=circles&page=2&position=24&related_id=148799&origin=search)  
