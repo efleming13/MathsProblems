@@ -8,7 +8,7 @@ Students may design their own maps or use the one given in the question, they sh
 
 ## Solution
 
-For the map given in the question, we can show that the map can be coloured using four colours. In fact, we will se that it cannot be done in any fewer.
+For the map given in the question, we can show that the map can be coloured using four colours. In fact, we will see that it cannot be done in any fewer.
 
 The majority of the map can be coloured using just two colours, take blue and green:
 
@@ -18,11 +18,11 @@ At this point, we wish to colour the region in the top left corner. Since it sha
 
 <img src="../../images/colouring-maps-4.png" width=300>
 
-Now we want to colour the star-shaped region. However, the star shares edges will a blue, a green and a red region so we must introduce a fourth colour. Yellow seems appropriate.
+Now we want to colour the star-shaped region. However, the star shares edges with a blue, a green and a red region so we must introduce a fourth colour. Yellow seems appropriate.
 
 <img src="../../images/colouring-maps-5.png" width=300>
 
-And so, we have coloured this map using exactly four colours. Clearly, we could have used more colours (we could, for example, use a different colour for each of the 29 section). But, having seen that we were required to introduce four different colours, we could not have used less.
+And so, we have coloured this map using exactly four colours. Clearly, we could have used more colours (we could, for example, use a different colour for each of the 29 sections). But, having seen that we were required to introduce four different colours, we could not have used less.
 
 ## Extension
 
@@ -43,15 +43,15 @@ Notice how our previous rule, that regions which share an edge cannot be the sam
 
 Also notice that the graph does not have any intersecting edges. In fact, any graph which represents a valid map can be drawn without any edges intersecting.
 
-Knowing these two things will allow us to prove that we can always colour a map using four colours or less. Let us try to contrsuct a graph which needs a minimum of five colours to fill. To do this, we need to contruct a graph of five vertices where each is connected to all the others and none of the edges cross.
+Knowing these two things will allow us to prove that we can always colour a map using four colours or less. Let us try to construct a graph which needs a minimum of five colours to fill. To do this, we need to contruct a graph of five vertices where each is connected to all the others and none of the edges cross.
 
-From the example map, we can make a graphy with four vertices where all are connected to each other and none of the lines intersect:
+From the example map, we can make a graph with four vertices where all are connected to each other and none of the lines intersect:
 
 <img src="../../images/colouring-maps-7.png" width=200>
 
 If we now try to add a fifth vertex, there are 4 areas where we could try to do so:
 - In any of the three small triangles formed by connecting the Yellow vertex with two others. 
-- Outside the large trianle formed by the Red, Green and Blue vertices.
+- Outside the large triangle formed by the Red, Green and Blue vertices.
 
 <img src="../../images/colouring-maps-8.png" width=200>
 
@@ -61,4 +61,4 @@ However, in each case, we can only connect up the additional vertex to three oth
 
 So, we have shown that we cannot construct a graph requiring five different colours to fill.
 
-Equivalently, we cannot draw a map which needs different five colours to fill. We can fill any map with a maximum of different four colours.
+Equivalently, we cannot draw a map which needs five different colours to fill. We can colour any map with a maximum of four different colours.
