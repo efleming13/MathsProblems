@@ -2,7 +2,7 @@
 
 ## Introduction
 
-These games provide a introduction to the *MiniMax Algorithm*, an important tool in computer science and “game theory”. The Minimax Algorithm is a method to work out the best way to act in order to minimise loses, or to achieve the *best outcome in a worstcase scenario* (like if our opponent plays optimally).
+These games provide a introduction to the *MiniMax Algorithm*, an important tool in computer science and “game theory”. The MiniMax Algorithm is a method to work out the best way to act in order to minimise loses, or to achieve the *best outcome in a worstcase scenario* (like if our opponent plays optimally).
 
 The first game is deliberately simpler, and hopefully students will be able to apply the same principles to a more complicated example in the second game (see Extension Section). 
 
