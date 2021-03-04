@@ -25,4 +25,9 @@ He continues to repeat this process, generating a new city each time, until he b
 
 <img src="../../images/bulgarian-solitaire-4.png" width=250>
 
-At this point, still dissatisfied, King Kong gives up.
+At this point, still dissatisfied after five reconstructions, King Kong gives up.
+
+Try starting with a different arrangement of eight blocks. What are the similarities and differences between your city and the example? Try some more starting cities, can you draw any conclusions about the pattern which cities follow, how about how they end?
+
+Try using different numbers of blocks, do you notice any interesting patterns?
+
