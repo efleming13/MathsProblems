@@ -9,7 +9,7 @@ added: 2021-03
 
 This question is about a city of skysrapers, like the one below:
 
-<img src="../../images/bulgarian-solitaire-1.png>
+<img src="..\..\images\bulgarian-solitaire-1.png>
 
 Each *skyscraper* is a stack of a certain number of squares and, in a *city*, the skyscrapers are arranged in height order from left to right.
 
