@@ -9,21 +9,21 @@ added: 2021-03
 
 This question is about a city of skysrapers, like the one below:
 
-<img src="../../images/bulgarian-solitaire-1.png" width=100>
+<img src="../../images/bulgarian-solitaire-1.png" width=75>
 
 Each *skyscraper* is a stack of a certain number of squares and, in a *city*, the skyscrapers are arranged in height order from left to right.
 
 King Kong decides to rearrange the city. To do this, he removes the top block off of each skyscraper and uses the blocks that he has collected to build a new skyscraper. He finishes his new city by arranging the skyscrapers in height order from left to right.
 
-<img src="../../images/bulgarian-solitaire-2.png" width=250>
+<img src="../../images/bulgarian-solitaire-2.png" width=350>
 
 He then decides to do this again.
 
-<img src="../../images/bulgarian-solitaire-3.png" width=250>
+<img src="../../images/bulgarian-solitaire-3.png" width=350>
 
 He continues to repeat this process, generating a new city each time, until he builds a city which he has already seen. In our example, the fifth recontruction gives the same city as the first.
 
-<img src="../../images/bulgarian-solitaire-4.png" width=250>
+<img src="../../images/bulgarian-solitaire-4.png" width=350>
 
 At this point, still dissatisfied after five reconstructions, King Kong gives up.
 
