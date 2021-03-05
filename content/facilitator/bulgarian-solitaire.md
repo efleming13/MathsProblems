@@ -4,7 +4,9 @@
 
 ## Solution
 
-For the longest possible sequence of cities, we should begin with one single skyscraper. For the example using seven blocks, this gives a sequence which has eight different cities:
+For the longest possible sequence of cities, we should begin with all of the skyscrapers at only one block high. 
+
+Using seven blocks, this starting point produces the following sequence:
 
 <img src="../../images/bulgarian-solitaire-5.png" width=500>
 
