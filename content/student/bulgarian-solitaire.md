@@ -9,26 +9,31 @@ added: 2021-03
 
 This question is about a city of skysrapers, like the one below:
 
-<img src="../../images/bulgarian-solitaire-1.png" width=75>
+<img src="../../images/bulgarian-solitaire-01.png" width=75>
 
-Each *skyscraper* is a stack of a certain number of squares and, in a *city*, the skyscrapers are arranged in height order from left to right.
+Each *skyscraper* is a stack of a certain number of squares and, in a *city*, the skyscrapers are arranged in height order from left to right.  
+So the *city* above has a total of 7 squares. It has two *skyscrapers*, one 5 squares and one 2 squares high.
 
-King Kong decides to rearrange the city. To do this, he removes the top block off of each skyscraper and uses the blocks that he has collected to build a new skyscraper. He finishes his new city by arranging the skyscrapers in height order from left to right.
+King Kong decides to rearrange the city. To do this, he removes the top square off of each skyscraper and uses the square that he has collected to build a new skyscraper. He finishes his new city by arranging the skyscrapers in height order from left to right.
 
-<img src="../../images/bulgarian-solitaire-2.png" width=350>
+<img src="../../images/bulgarian-solitaire-02.png" width=350>
 
-He sits back to admire his work. Then he then decides to repeat the process.
+He sits back to admire his work. Then he then decides to rebuild his new city, again removing the top square of each skyscraper to form a new one and rearranging the skycrapers to be in hight order.
 
-<img src="../../images/bulgarian-solitaire-3.png" width=350>
+<img src="../../images/bulgarian-solitaire-03.png" width=350>
 
-He continues to perform the same rearrangement, generating a new city each time, until he eventually builds a city which he has already seen. In our example, the sixth city is then same as the second.
+He continues rearranging each new city, following the same process, until he eventually builds a city which he has already seen.   
+In our example, the sixth city he builds is then same as the second.
 
-<img src="../../images/bulgarian-solitaire-4.png" width=350>
+<img src="../../images/bulgarian-solitaire-04.png" width=350>
 
-At this point, still dissatisfied after five reconstructions, King Kong gives up and goes in search of new cities to rebuild.
+At this point, still dissatisfied with his work, King Kong gives up and leaves in search of new cities to rebuild.
 
-In the example, the sequence has six different cities. Try starting with different arrangements of seven blocks, what is the longest sequence of cities which you can find? 
+In this example, the entire sequence of rebuilds creates six different cities.  
+You should try starting with different arrangements of seven squares, what is the longest sequence of cities which you can find?
 
-What about if you start with a city using six blocks, or eight or nine? What is the longest possible sequence for each number of blocks
+Do you notice any patterns or similarities between different starting cities (all made of 7 squares)? In particular, look at how the sequences end.
 
-As an extenstion, try investigating the possible sequences for each number of blocks. Are there any similarities or rules for all the posible starting cities? In particular, look at how different cities end for each number of blocks.
+As an extention, try using different numbers of squares to build your original city. Try to answer questions like what is the longest sequence that you can create and can you spot a pattern for how the sequences end?  
+Try using 5 or 6 squares. These will have fewer possibilities for starting cities.  
+Try using 8, 9 or 10 squares. You will probably not want to consider every starting city for these (since there are a lot), but you may be able to spot some patterns particularly with regards to how the sequences end.
