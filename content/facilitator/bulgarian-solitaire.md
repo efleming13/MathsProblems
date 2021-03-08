@@ -57,11 +57,11 @@ Using 6 squares, there are 11 different possible cities:
 
 We can arrange these in a flow diagram:
 
-<img src="../../images/bulgarian-solitaire-09.png" width=300>
+<img src="../../images/bulgarian-solitaire-09.png" width=200>
 
 So the longest sequence has 7 different cities, starting at **(2,2,1,1)**:
 
-<img src="../../images/bulgarian-solitaire-06.png" width=300>
+<img src="../../images/bulgarian-solitaire-06.png" width=200>
 
 And all sequences end in the city **(3,2,1)**, which produces itself then rearraged,
 
@@ -77,13 +77,13 @@ Using 8 squares, there are 22 different possible cities:
 
 We can arrange these in a flow diagram:
 
-<img src="../../images/bulgarian-solitaire-10.png" width=300>
+<img src="../../images/bulgarian-solitaire-10.png" width=400>
 
 But here we notice a difference between using 6 or 7 squares, and using 8. The flow diagram is in two seperate parts!
 
 We can still identify the longest sequence, which starts at **(1,1,1,1,1,1,1,1)** and has 9 different cities:
 
-<img src="../../images/bulgarian-solitaire-07.png" width=300>
+<img src="../../images/bulgarian-solitaire-07.png" width=400>
 
 Depending on the starting point, we can either end up at:  
 a 4 city loop: **(4,3,1)**, **(3,3,2)**, **(3,2,2,1)** and **(4,2,1,1)**  
