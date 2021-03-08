@@ -31,9 +31,9 @@ There are 15 options for a city of 7 squares:
 
 We can start to join up these cities based on which lead to which when they are rearranged. For example,  
 **(7)** $\rightarrow$ **(6,1)**  
-**(6,1)** $\rightarrow$ (5,2)**  
-**(5,2)** $\rightarrow$ (4,2,1)**  
-**(5,1,1)** $\rightarrow$ (4,3)**
+**(6,1)** $\rightarrow$ **(5,2)**  
+**(5,2)** $\rightarrow$ **(4,2,1)**  
+**(5,1,1)** $\rightarrow$ **(4,3)**
 
 In fact, we can create a flow diagram which joins up all of the different options for cities made up of seven squares:
 
