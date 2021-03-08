@@ -29,7 +29,7 @@ In our example, the sixth city he builds is then same as the second.
 
 At this point, still dissatisfied with his work, King Kong gives up and leaves in search of new cities to rebuild.
 
-In this example, the entire sequence of rebuilds creates six different cities.  
+In this example, the entire sequence of rebuilds creates 5 different cities.  
 You should try starting with different arrangements of seven squares, what is the longest sequence of cities which you can find?
 
 Do you notice any patterns or similarities between different starting cities (all made of 7 squares)? In particular, look at how the sequences end.
