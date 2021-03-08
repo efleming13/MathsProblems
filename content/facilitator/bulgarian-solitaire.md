@@ -18,7 +18,7 @@ Here we will discuss the puzzle using 7 squares, you can see the extension secti
 
 Let us notate the cities in a more concise way by listing the number of squares in each skyscraper from left to right.  
 In this way we can write the starting city in the example as (5,2).  
-The sequence in the example can be written (5,2) $\rightarrow$ (4,2,1) $\rightarrow$ (3,3,1) $\rightarrow$ (3,2,2) $\rightarrow$ (3,2,1,1) *$\rightarrow$ (4,2,1)*
+The sequence in the example can be written (5,2) $\rightarrow$ (4,2,1) $\rightarrow$ (3,3,1) $\rightarrow$ (3,2,2) $\rightarrow$ (3,2,1,1) $\rightarrow$ *(4,2,1)*
 
 There are 15 options for a city of 7 squares:  
 (7)  
@@ -91,8 +91,8 @@ a 2 city loop: (3,3,1,1) and (4,2,2)
 
 If you would like to explore the ideas of this puzzle further, here are some excellent resources:
 
-<a href="https://mathpickle.com/project/bulgarian-solitaire-patterns/">  
+<a href="https://mathpickle.com/project/bulgarian-solitaire-patterns/" target="_blank">MathPickle</a>  
 A slide show which gives flow diagrams and ending loops for cities using large numbers of squares.
 
-<a href="https://www.youtube.com/watch?v=p3Bzvlnl-1s">
-A YouTube video which looks at why certain numbers of squares give one or multiple ending loops of certain sizes. 
+<a href="https://www.youtube.com/watch?v=p3Bzvlnl-1s" target="_blank">Tipping Point Math</a>  
+A YouTube video which looks at why certain numbers of squares give one or multiple ending loops of certain sizes.
