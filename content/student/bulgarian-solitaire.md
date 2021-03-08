@@ -34,6 +34,8 @@ You should try starting with different arrangements of seven squares, what is th
 
 Do you notice any patterns or similarities between different starting cities (all made of 7 squares)? In particular, look at how the sequences end.
 
-As an extention, try using different numbers of squares to build your original city. Try to answer questions like what is the longest sequence that you can create and can you spot a pattern for how the sequences end?  
-Try using 5 or 6 squares. These will have fewer possibilities for starting cities.  
+As an extention, try using different numbers of squares to build your original city. Try to answer questions like what is the longest sequence that you can create and can you spot a pattern for how the sequences end?
+
+Try using 5 or 6 squares. These will have fewer possibilities for starting cities.
+
 Try using 8, 9 or 10 squares. You will probably not want to consider every starting city for these (since there are a lot), but you may be able to spot some patterns particularly with regards to how the sequences end.
