@@ -92,8 +92,8 @@ a 2 city loop: **(3,3,1,1)** and **(4,2,2)**
 
 If you would like to explore the ideas of this puzzle further, here are some excellent resources:
 
-<a href="https://mathpickle.com/project/bulgarian-solitaire-patterns/" target="_blank">MathPickle</a>  
+[MathPickle](https://mathpickle.com/project/bulgarian-solitaire-patterns/)  
 A slide show which gives flow diagrams and ending loops for cities using large numbers of squares.
 
-<a href="https://www.youtube.com/watch?v=p3Bzvlnl-1s" target="_blank">Tipping Point Math</a>  
+[Tipping Point Math](https://www.youtube.com/watch?v=p3Bzvlnl-1s)  
 A YouTube video which looks at why certain numbers of squares give one or multiple ending loops of certain sizes.
