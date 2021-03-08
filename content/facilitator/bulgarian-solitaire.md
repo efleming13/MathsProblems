@@ -17,7 +17,7 @@ Students can (and should) ask their own questions about this puzzle and others a
 Here we will discuss the puzzle using 7 squares, you can see the extension section for 6 and 8 squares as well as some links to resources regarding this puzzle.
 
 Let us notate the cities in a more concise way by listing the number of squares in each skyscraper from left to right.  
-In this way we can write the starting city in the example as (5,2).  
+In this way we can write the starting city in the example as **(5,2)**.  
 The sequence in the example can be written (5,2) $\rightarrow$ (4,2,1) $\rightarrow$ (3,3,1) $\rightarrow$ (3,2,2) $\rightarrow$ (3,2,1,1) $\rightarrow$ *(4,2,1)*
 
 There are 15 options for a city of 7 squares:  
@@ -86,8 +86,9 @@ We can still identify the longest sequence, which starts at (1,1,1,1,1,1,1,1) an
 <img src="../../images/bulgarian-solitaire-07.png" width=300>
 
 Depending on the starting point, we can either end up at:  
-a 4 city loop: (4,3,1), (3,3,2), (3,2,2,1) and (4,2,1,1)
+a 4 city loop: (4,3,1), (3,3,2), (3,2,2,1) and (4,2,1,1)  
 a 2 city loop: (3,3,1,1) and (4,2,2)
+
 
 If you would like to explore the ideas of this puzzle further, here are some excellent resources:
 
