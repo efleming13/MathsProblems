@@ -7,8 +7,7 @@ added: 2021-03
 
 # Bulgarian Solitaire
 
-This question is about a city of skysrapers, like the one below:
-
+This question is about a city of skyscrapers, like the one below:
 <img src="../../images/bulgarian-solitaire-01.png" width=75>
 
 Each *skyscraper* is a stack of a certain number of squares and, in a *city*, the skyscrapers are arranged in height order from left to right.  
@@ -18,12 +17,12 @@ King Kong decides to rearrange the city. To do this, he removes the top square o
 
 <img src="../../images/bulgarian-solitaire-02.png" width=350>
 
-He sits back to admire his work. Then he then decides to rebuild his new city, again removing the top square of each skyscraper to form a new one and rearranging the skycrapers to be in hight order.
+He sits back to admire his work. Then he decides to rebuild his new city, again removing the top square of each skyscraper to form a new one and rearranging the skycrapers to be in height order.
 
 <img src="../../images/bulgarian-solitaire-03.png" width=350>
 
 He continues rearranging each new city, following the same process, until he eventually builds a city which he has already seen.   
-In our example, the sixth city he builds is then same as the second.
+In our example, the sixth city he builds is the same as the second.
 
 <img src="../../images/bulgarian-solitaire-04.png" width=350>
 
@@ -34,7 +33,7 @@ You should try starting with different arrangements of seven squares, what is th
 
 Do you notice any patterns or similarities between different starting cities (all made of 7 squares)? In particular, look at how the sequences end.
 
-As an extention, try using different numbers of squares to build your original city. Try to answer questions like what is the longest sequence that you can create and can you spot a pattern for how the sequences end?
+As an extension, try using different numbers of squares to build your original city. Try to answer questions like what is the longest sequence that you can create and can you spot a pattern for how the sequences end?
 
 Try using 5 or 6 squares. These will have fewer possibilities for starting cities.
 
